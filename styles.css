@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#about a{
+  text-decoration: none;
+  color: #000000;
+  transition: all 0.5s ease-in-out;
+}
+
+#about a:hover{
+  text-decoration: none;
+  color: rgb(204, 164, 33);
+  transition: all 0.5s ease-in-out;
+}
