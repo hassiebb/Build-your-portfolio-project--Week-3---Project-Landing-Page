@@ -4,7 +4,7 @@ Welcome to the Smart Home Automation System landing page! Explore the futuristic
 
 ## Introduction
 
-This project showcases the capabilities of our Smart Home Automation System. For a detailed overview, visit our [Deployed Site](#) and read our final project [Blog Article](#).
+This project showcases the capabilities of our Smart Home Automation System. For a detailed overview, visit our [Deployed Site](https://hassiebb.github.io/Landing-Page-project/) and read our final project [Blog Article](#).
 
 **Author:**
 - Mohammad Hassieb
